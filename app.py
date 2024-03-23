@@ -1,8 +1,6 @@
 import streamlit as st
-import yfinance as yf
-from PIL import Image
 
-st.title("Sally's LAB★")
+st.title("Sally's Math gallery★")
 
 """
 Welcome!
@@ -20,11 +18,13 @@ I have a soft spot for all things anime, even though I've been quite busy lately
 
 I love the thrill of learning new things. It's what makes me feel alive and connected to the beauty of the universe. 🌌 Welcome to my little universe—where growth, curiosity, and good vibes are always in the air!
 
-This site is my playground for some dummy app.
 
-Feel free to explore and join the journey with me! 🚀✨
+This site is some visualization for math concept.
+
+All the idea if from here:
+
+https://github.com/Visualize-ML
+
+It is a great place to learn math.Thank you so much.
 
 """
-
-img = Image.open("images/buzzimage.png")
-st.image(img, caption="sally", use_column_width=True)
