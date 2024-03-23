@@ -21,7 +21,7 @@ I love the thrill of learning new things. It's what makes me feel alive and conn
 
 This site is some visualization for math concept.
 
-All the idea if from here:
+All the idea is from here:
 
 https://github.com/Visualize-ML
 
